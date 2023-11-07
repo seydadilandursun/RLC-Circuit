@@ -1,6 +1,7 @@
 # RLC-Circuit
-<img src="download.png" alt="Testing">
-##$$How can I calculate impedance in an RLC circuit?
+<img src="[download.png](https://instrumentationtools.com/wp-content/uploads/2018/07/relationship-between-resistance-reactance-and-impedance.png?ezimgfmt=rs:370x278/rscb2/ngcb2/notWebP)">
+How can I calculate impedance in an RLC circuit?
+
 To calculate impedance in an RLC circuit follow these steps:
 
 
