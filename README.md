@@ -4,20 +4,20 @@
 To calculate impedance in an RLC circuit follow these steps:
 
 <ul> 
-    <li> Determine whether the circuit is in series or parallel. </li>
-  
-    <li>  Measure the resistance R using the multimeter. </li>
+    <li> Determine whether the circuit is in series or parallel. 
+
+        Measure the resistance R using the multimeter. 
     
-    <li> Find the inductance L. </li>
+        Find the inductance L. 
    
-    <li> Measure the capacitance C. </li>
+        Measure the capacitance C. 
+     
+        Define the frequency of the circuit f. <
    
-    <li> Define the frequency of the circuit f. </li>
-   
-    <li> Evaluate angular frequency: ω = 2πf </li>
+        Evaluate angular frequency: ω = 2πf 
     
-     <li> Calculate the impedance of the series RLC circuit from the formula: $$ Z = √(R²+(ωL-1/ωC)²) $$</li>
+       Calculate the impedance of the series RLC circuit from the formula: $$ Z = √(R²+(ωL-1/ωC)²) $$
    
-     <li> Find the impedance of the parallel RLC circuit:$$ Z = 1/√(1/R² + (1/ωL - ωC)²)$$ </li>
+       Find the impedance of the parallel RLC circuit:$$ Z = 1/√(1/R² + (1/ωL - ωC)²)$$ </li>
      
 </ul>
